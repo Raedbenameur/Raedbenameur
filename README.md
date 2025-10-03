@@ -7,7 +7,7 @@ I always dreamed of building software. What started as a curiosity turned into a
 
 ## 🚀 About Me
 - 👨‍💻 I’m a **Full Stack Web Developer and Designer**  
-- 📱 **Mobile & Desktop App Developer** (Flutter | React Native | .NET MAUI)  
+- 📱 **Mobile & Desktop App Developer** (Flutter | React Native )  
 - 🎯 Passionate about **problem-solving**, **clean code**, and **creating intuitive user experiences**  
 - 🌍 Based in **Tunisia**  
 
@@ -16,16 +16,16 @@ I always dreamed of building software. What started as a curiosity turned into a
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
-- C, C#, Java, PHP, JavaScript, TypeScript, Python (basics)
+- C, C#, Java, PHP,TypeScript, Python (basics)
 
 ### 🌐 Front-End Development
-- HTML5, CSS3, JavaScript, Vue.js, ReactJS
+- HTML5, CSS3, JavaScript, Vue.js, NextJS , .Net Blazor
 
 ### ⚙️ Back-End Development
-- ASP.NET Core, Express.js, Node.js, Laravel
+- ASP.NET Core, Express.js, Nest.js, SpringBoot
 
 ### 🗄️ Databases
-- MySQL, SQL Server, SQLite, Firebase
+- MySQL, SQL Server, SQLite, Firebase, MongoDB
 
 ### 📱 Mobile & Desktop Apps
 - Flutter, React Native
